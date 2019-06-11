@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitReturns": true,
+        "noUnusedParameters": false,
+        "noUnusedLocals": true,
+        "sourceMap": false,
+        "watch": true,
+        "target": "es6"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
